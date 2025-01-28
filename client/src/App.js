@@ -45,14 +45,14 @@ function App() {
       {/* Scroll-to-top button */}
       <ScrollToTopButton />
 
-      <footer>
+      {/* <footer>
         <div className="attribution">
           Challenge by{' '}
-          <a href="https://www.frontendmentor.io?ref=challenge">
+          <a href="https://www.frontendmentor.io?ref=challenge">   "my footer"
             Frontend Mentor
           </a>. Coded by <a href="#">devkilyungi</a>.
         </div>
-      </footer>
+      </footer> */}
     </CartProvider>
   );
 }
